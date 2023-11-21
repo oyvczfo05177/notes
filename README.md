@@ -30,3 +30,6 @@ Second, always plan your day or week ahead of time. Write down your goals and ta
 
 # 2023-11-20
 - "Today's programming wisdom is to focus on writing clean, maintainable, and reusable code. It's important to remember that code is read more often than it's written, so investing time in making it easy to understand and modify will pay off in the long run. Additionally, using version control, testing, and documentation can greatly improve the quality and reliability of your code."
+
+# 2023-11-21
+- "Keep it simple, stupid!"
