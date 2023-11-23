@@ -38,3 +38,8 @@ Second, always plan your day or week ahead of time. Write down your goals and ta
 - Today's programming wisdom is to be a lifelong learner, constantly updating your skills and knowledge in the field. This means staying up-to-date with the latest technologies, tools, and programming languages. It also means understanding the principles of software development and design, as well as the best practices for writing efficient, maintainable,and scalable code.
 
 To achieve this, you should focus on problem-solving and critical thinking skills, which will help you adapt to new challenges and develop innovative solutions. Practice makes perfect, so keep practicing and refining your craft. Don't be afraid to ask questions, seek help, or even admit you don' know something. Embrace the learning process and enjoy the journey.
+
+# 2023-11-23
+- Today's programming wisdom is to prioritize tasks, plan ahead, and stay organized. This will help you to be more efficient and productive in your coding endeavors.
+
+First, prioritize your tasks. When you're working on a project, it' s important to determine which tasks are most critical to the success of the project. By focusing on these tasks first, you can ensure that your code is of high quality and meets the requirements of your project timeline. Use a task management tool, such as Trello or Asana, to keep track of tasks and their priorities.
