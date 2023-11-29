@@ -60,3 +60,6 @@ First, prioritize your tasks. When you're working on a project, it' s important 
 - "Programming today is a race between software engineers striving to build bigger and better idiot-proof programs, and the universe trying to produce bigger and better idiots. So far, the universe is winning." - Rick Cook
 
 This quote highlights the ongoing challenge for programmers to create user-friendly and robust software, while also acknowledging the unpredictable nature of users and the potential for unexpected issues to arise. It serves as a reminder to always strive for improvement and to be prepared for the unexpected in the ever-evolving field of programming.
+
+# 2023-11-29
+- "Today's programming wisdom is to write code that is easy to understand and maintain. This means using clear and descriptive variable names, writing concise and well-structured functions, and commenting your code thoroughly. Remember, code is read more often than it is written, so make it easy for others (and your future self) to read and understand."
