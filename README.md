@@ -119,3 +119,9 @@ Remember to stay up-to-date with the latest programming technologies and tools. 
 5. Take regular breaks to avoid burnout and maintain focus.    
 6. Stay up-to-date with the latest programming technologies and tools to stay competitive in the job market.     
 7. Never stop learning and growing as a programmer. Keep your skills sharp by attending workshops, reading blogs, or participating in online communities.
+
+# 2023-12-12
+- Today's programming wisdom is to be a lifelong learner. As technology continues to evolve at an unprecedented rate, it is essential to stay up-to-date with the latest developments and techniques. This means constantly reading blogs, articles, and research papers, attending conferences, workshops, online courses, etc. to gain a deeper understanding of the field.
+
+In addition to staying up to date with technology, being a good programmer also means being able to work well with others. That means communicating effectively, both verbally and in writing, as well as being willing to listen and learn from others' experiences and knowledge. Teamwork is crucial in the programming world, so being capable of working with and collaborating with other developers is a must. 
+ - 来自NLP
