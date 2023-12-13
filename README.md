@@ -125,3 +125,8 @@ Remember to stay up-to-date with the latest programming technologies and tools. 
 
 In addition to staying up to date with technology, being a good programmer also means being able to work well with others. That means communicating effectively, both verbally and in writing, as well as being willing to listen and learn from others' experiences and knowledge. Teamwork is crucial in the programming world, so being capable of working with and collaborating with other developers is a must. 
  - 来自NLP
+
+# 2023-12-13
+- "Premature optimization is the root of all evil." - Donald Knuth
+
+Optimizing code before it's necessary can lead to overly complex and difficult-to-maintain code. It's often better to write simple, clear code first and optimize only when profiling indicates that a particular section of code is causing performance issues.
