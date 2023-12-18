@@ -153,3 +153,8 @@ First, prioritize your tasks. When you're working on a project, it' s important 
 
 # 2023-12-17
 - Today's programming wisdom is to write code that is readable, maintainable, and scalable. This means using clear and concise variable names, commenting your code effectively, and organizing it into logical modules or functions. It also means anticipating future changes or additions to the code and designing it in a way that makes those changes easy to implement. Additionally, writing efficient code that performs well and uses resources wisely is important, but should not come at the expense of readability and maintainability. Remember that others may need to read and understand your code, so make it as easy as possible for them to do so.
+
+# 2023-12-18
+- Today's programming wisdom is: "Premature optimization is the root of all evil." - Donald Knuth. 
+
+This quote reminds us that while optimizing code for efficiency is important, it should not be done prematurely or without careful consideration. It's often better to write clear and simple code first, and then optimize only if necessary, based on profiling and performance measurements. Focusing too much on optimization early on can lead to overly complex code that is difficult to maintain and debug.
