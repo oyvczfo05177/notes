@@ -163,3 +163,10 @@ This quote reminds us that while optimizing code for efficiency is important, it
 - "Premature optimization is the root of all evil." - Donald Knuth. 
 
 Focus on writing clean, readable, and maintainable code first. Optimization should only be done when it is necessary and after profiling has identified performance bottlenecks.
+
+# 2023-12-20
+- Today's programming wisdom is to prioritize tasks, plan ahead, and stay organized. This will help you to be more efficient and productive in your coding endeavors.
+
+First, prioritize your tasks. When you're working on a project, it' s important to determine which tasks are most critical to the success of the project. By focusing on these tasks first, you can ensure that your code is of high quality and meets the requirements of your project goals. You can use techniques like the MoSCoW method (Must have, Should have , Could have and Won't have) to categorize and prioritize the tasks in a practical way. 
+ .Secondly, planning ahead is crucial. Before starting any project , it is essential to create a detailed plan that includes the objectives, milestones, resources, timelines, etc. Planning ahead will not only help in staying organized but also in avoiding any unexpected hurdles that may come in the way of project completion. It will also help to keep the team on the same page and ensure a smooth execution of tasks 。
+Finally, stay organised. Organizing your work space, codebase, documentation, tools, libraries,etc. can help improve your productivity and efficiency. Using version control systems like Git can also be very helpful in managing your codes and keeping track of changes. Additionally, using code editors and IDEs that provide quick access to code, debugging tools and code snippets can make your job easier and more enjoyable.
