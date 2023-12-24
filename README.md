@@ -185,3 +185,10 @@ To achieve this, it is essential to practice regular self-reflection and evaluat
 
 # 2023-12-23
 - Today's programming wisdom is to embrace the principle of "write readable code". Always remember that code is read more often than it is written. Strive for clarity and simplicity in your syntax, use descriptive variable names, and include comments to explain complex logic or intentions. Remember, writing maintainable and understandable code is a crucial aspect of being a good programmer, as it not only makes your work easier to debug and update but also enhances collaboration with your fellow developers.
+
+# 2023-12-24
+- Today's programming wisdom is to be a lifelong learner, constantly updating your skills and knowledge in the field. This means staying up-to-date with the latest technologies, tools, and best practices. It also means being open to new ideas and approaches, as well as being willing to take risks and try new things.
+
+To be successful in programming, it' s essential to have a deep understanding of the fundamentals, such as data structures, algorithms, computer architecture, operating systems, etc. These fundamentals will serve as a strong foundation for your career, allowing you to adapt to the ever-changing landscape of technology. 
+ 此外，学会与他人合作和有效沟通也是编程智慧的组成部分。在团队项目中，这包括清楚地表达你的想法，倾听他人的意见，以及找到合适的解决方案。此外, 学会在压力下工作，管理时间和优先级，以及在需要时寻求帮助，也是成为一名成功的程序员所必需的。
+ 最后，保持好奇心和创造力是编程智慧和成功的关键。尝试不同的方法和技术，不断挑战自己，这将有助于你在编程领域取得更大的成功。总之，成为一名终身学习者，不断提高自己的技能和知识，与他人有效合作，并在压力和时间限制下保持冷静，是今天编程的智慧。
