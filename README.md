@@ -217,3 +217,6 @@ Next, use tools and resources to help manage your workflow. For example, using v
 First, prioritize your tasks. When you're working on a project, it' s important to determine which tasks are most critical to the success of the project. By focusing on these tasks first, you can ensure that your code is of high quality and meets the requirements of your project timeline. You can use the MoSCoW method to help prioritize: Must have, Should have , Could have and Won't have. Must-have tasks should be completed first. Should-haves are important but not critical, while could-has and won'ts can be worked on later if time allows. 
 其次，明智地规划你的时间。在编程时，合理安排时间至关重要。你可以使用番茄工作法来提高效率。这种方法包括25分钟的工作时间，然后休息5分钟的循环。每完成四个番茄周期后，休息15-30分钟。这有助于保持注意力并避免疲劳。
 最后，保持组织。使用版本控制系统（如Git）来跟踪代码更改。这将帮助你更容易地回滚到之前的版本，并在需要时轻松地合并更改
+
+# 2023-12-31
+- "Keep it simple, stupid!"
