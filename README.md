@@ -234,3 +234,6 @@ First, prioritize your tasks. When you're working on a project, it' s important 
 
 Second, planning ahead is crucial. Before starting a new project or undertaking a large task, take the time to plan out your approach. Break the task down into smaller, manageable steps, then allocate time for each step. Planning ahead will ensure you have a clear idea of what you need to do and when you want to complete it. It will also help to avoid last-minute scrambling and stress. 
  - 来自NLP
+
+# 2024-01-03
+- "Keep it simple, stupid!"
