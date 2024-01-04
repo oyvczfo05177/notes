@@ -237,3 +237,14 @@ Second, planning ahead is crucial. Before starting a new project or undertaking 
 
 # 2024-01-03
 - "Keep it simple, stupid!"
+
+# 2024-01-04
+- "Today's programming wisdom is to embrace the SOLID principles. In essence, design software with:
+
+1. Single Responsibility Principle: Each class should have only one reason to change.
+2. Open-Closed Principle: Classes should be open for extension but closed for modification.
+3. Liskov Substitution Principle: Derived classes must be substitutable for their base classes.
+4. Interface Segregation Principle: Make fine-grained interfaces that are tailored to specific clients.
+5. Dependency Inversion Principle: Depend on abstractions, not on concretions.
+
+These principles promote code that's maintainable, scalable, and adaptable to change, which are critical attributes in today's fast-paced software development landscape."
