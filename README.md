@@ -397,3 +397,13 @@ Another important aspect of programming wise is problem-solving. When faced with
 
 # 2024-02-03
 - "Today's programming wisdom: 'Simplicity is the ultimate sophistication.' — Leonardo da Vinci. In software development, it's crucial to write code that's easy to understand and maintain. Always strive for clarity and minimalism in your solutions, as complex systems tend to accumulate bugs, breed inefficiencies, and hinder collaboration. Remember, you're not just writing code for computers to execute; you're writing it for fellow humans to read, review, and build upon."
+
+# 2024-02-04
+- "Today's programming wisdom is to embrace the SOLID principles: Single Responsibility, Open-Closed, Liskov Substitution, Interface Segregation, and Dependency Inversion. These guidelines promote code that's maintainable, scalable, and easier to understand, ultimately leading to more robust software applications. Always remember, clarity and simplicity are key virtues in programming, for today and tomorrow." 
+
+In detail:
+1. **Single Responsibility Principle (SRP)**: A class should have only one reason to change, meaning it should have only one primary responsibility.
+2. **Open-Closed Principle (OCP)**: Software entities like classes, modules, and functions should be open for extension but closed for modification.
+3. **Liskov Substitution Principle (LSP)**: Derived classes must be substitutable for their base classes without altering the correctness of the program.
+4. **Interface Segregation Principle (ISP)**: Clients should not be forced to depend on methods they do not use; instead, interfaces should be broken down into smaller, more specific ones.
+5. **Dependency Inversion Principle (DIP)**: High-level modules should not depend on low-level modules; both should depend on abstractions. Abstractions should not depend on details; rather, details should depend on abstractions.
