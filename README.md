@@ -583,3 +583,6 @@ This quote, though succinct, reminds us that focusing on optimizing code too ear
 
 Next, planning ahead is crucial for success. Make a plan for your day, week, or even month, depending on your project. Planning ahead will allow you time to think about potential obstacles and challenges, so you're better prepared to tackle them. It will also help to organize your thoughts and ideas, making it easier to implement your plan effectively. 
  - 来自NLP
+
+# 2024-03-10
+- "Keep it simple, stupid!"
